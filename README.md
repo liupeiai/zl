@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Peiai Liu</h1>
-\\<h3 align="center">A passionate graduate student from China 🇨🇳 
-
 
 ### 👨‍🔬 About Me
 
