@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peiai Liu</h1>
-<h3 align="center">A passionate graduate student from China 🇨🇳 | Astrophysics & Machine Learning</h3>
+\\<h3 align="center">A passionate graduate student from China 🇨🇳 
 
-<p align="center">
-  <a href="https://orcid.org/0009-0001-8640-9012" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0001--8640--9012-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-  <a href="mailto:peiailiu@qq.com">
-    <img src="https://img.shields.io/badge/Email-peiailiu@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
 
 ### 👨‍🔬 About Me
 
